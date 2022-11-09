@@ -1,0 +1,45 @@
+body{
+    margin: 5px;
+    padding: 5px;
+    background-color: #f1c49a; 
+}
+
+#img_of_ck{
+    height: 30%;
+    width: 30%;
+
+}
+
+.div1{
+    /* border: solid 5px red; */
+    float: left;
+}
+
+.div2{
+    /* border: solid 5px blue; */
+    float: right;
+}
+#h2_of_ck{
+    color: brown;
+}
+.bor_back_red{
+    border: 5px solid red ;
+    border-radius: 15px;
+    background-color: red;
+    color: white;
+    padding: 1px;
+
+}
+
+.p_color{
+    color: red;
+}
+
+.lip{
+    margin: 3px;
+    padding: 0px;
+}
+
+.lips{
+    padding: 3px;
+}
