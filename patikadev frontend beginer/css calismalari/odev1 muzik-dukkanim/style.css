@@ -1,0 +1,45 @@
+body{
+    background-color: #EFF5F5;
+    font-family: 'Secular One', sans-serif;
+}
+
+#red{
+    color: red;
+}
+#purple{
+    color: purple;
+}
+#yellow{
+    color: rgb(193, 148, 15);
+}
+.center{
+    text-align: center;
+}
+
+
+
+.ulcenter{
+    text-align: center;
+    list-style-position: inside;
+}
+
+#ulli1{
+    list-style: none
+}
+
+#ulli1 li{
+    display: inline;
+    margin: 10px;
+    position: relative;
+}
+
+img{
+    width: auto;
+    height: 300px;
+}
+
+.divimgcenter{
+    width: 300px;
+    height: auto;
+    margin: auto;
+}
